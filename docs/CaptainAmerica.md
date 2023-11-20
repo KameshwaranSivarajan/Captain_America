@@ -4,6 +4,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 
-![Test](../docs/.document360/asserts/2.jpg)
+![Test](../docs/.document360/assets/2.jpg)
 
 
