@@ -5,4 +5,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
  Updation
 
+ ![Test](/docs/.document360/assets/2.jpg)
+
 
