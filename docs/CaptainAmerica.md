@@ -6,4 +6,8 @@ dhilip
 
 ![Test](/docs/.document360/assets/2.jpg)
 
+![Test](/docs/.document360/assets/2.jpg)
+
+![Test](/docs/.document360/assets/Beginning.pdf)
+
 
