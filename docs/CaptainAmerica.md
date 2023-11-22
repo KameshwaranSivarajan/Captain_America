@@ -1,5 +1,5 @@
 I had updated this article
 
-Updation
+![Test](/docs/.document360/assets/2.jpg)
 
 
