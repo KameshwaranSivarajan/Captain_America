@@ -1,4 +1,4 @@
-I had updated this article
+Article updated on Dec-15th
 Image uploaded from assetfolder
 ![Test](/docs/.document360/assets/2.jpg)
 
