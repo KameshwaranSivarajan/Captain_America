@@ -1,4 +1,4 @@
-Article updated on Dec-15th
+This is US environment testing
 Image uploaded from assetfolder
 ![Test](/docs/.document360/assets/2.jpg)
 
